@@ -76,7 +76,7 @@ Suitcase-House/
 │   ├── index.html
 │   ├── script.js
 │   ├── style.css
-│   └── assets/
+│   
 │
 └── README.md
 ```
