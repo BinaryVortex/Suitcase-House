@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 🏠 Suitcase House — Interactive 3D Diorama Experience
 
 A visually immersive **Three.js-powered 3D diorama** that transforms a miniature home environment into an interactive web experience.
